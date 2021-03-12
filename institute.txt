@@ -1,0 +1,11 @@
+before devops sdlc software development life cycle process.
+
+requirements
+
+design 
+
+implementation
+
+testing
+
+production or maintanence
